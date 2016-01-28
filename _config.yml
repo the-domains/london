@@ -1,0 +1,28 @@
+name: london
+favicon: null
+layout_spectrum: 0.6553257359191775
+typography_spectrum: 0.8599405963905156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8585722846910357
+  lightness: 0.8214733726345003
+  saturation: 0.0003187023103237152
+  rhythmicContrast: 0.8055286309681833
+purpose: []
